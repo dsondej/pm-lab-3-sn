@@ -14,3 +14,6 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 Aktualizacja pliku README - zadanie 3-1-2
+
+Pytanie: W jaki sposób można rozbudować funkcjonalność programu w  przypadku  gdy  liczba  naciśnięć  przycisku  przekroczy  określoną  ilość?
+Odpowiedź: Kiedy liczba naciśnięć przycisku przekroczy maksymalną ilość to przyciśnięcia definiują się na nowo w kodzie.
