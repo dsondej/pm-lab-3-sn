@@ -19,3 +19,4 @@ w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
 
 W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
 - należy zwiekszyć format ramki
+
