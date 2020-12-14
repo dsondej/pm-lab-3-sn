@@ -22,4 +22,4 @@ Po przekroczeniu liczby nacisnieć, liczba nacisniec się zeruje.
 
 W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów? 
 
-Należy zwiekszysc szybkość transmisji 
+Należy zwiekszysc szybkość transmisji. 
