@@ -16,3 +16,6 @@ Grupa studencka: WEL18DE1S1
 W jaki sposób można rozbudować funkcjonalność programu
 w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
 - Gdy liczba naciśnieć przekroczy określoną ilość, wtedy na nowo definiuje się w kodzie.
+
+W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+- należy zwiekszyć format ramki
