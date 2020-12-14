@@ -18,3 +18,8 @@ W jaki sposób można rozbudować funkcjonalność programu
 w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
 
 Po przekroczeniu liczby nacisnieć, liczba nacisniec się zeruje.
+
+
+W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów? 
+
+Należy zwiekszysc szybkość transmisji 
