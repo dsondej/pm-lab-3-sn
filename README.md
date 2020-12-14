@@ -23,3 +23,4 @@ Pytanie 3.2.3: W jaki sposób można zwiększyć liczbę obsługiwanych poleceń
 
 Odpowiedź: Należy zwiększyć prędkość transmisji.
 
+Zakończono laboratorium nr 3
