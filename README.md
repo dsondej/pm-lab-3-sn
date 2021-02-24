@@ -18,5 +18,5 @@ w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
 - wtedy na nowo definiuje sie w kodzie
 
 W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
-- 
+- należy zwiększyć format ramki
 
